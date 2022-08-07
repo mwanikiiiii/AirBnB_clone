@@ -1,1 +1,1 @@
-#!/usr/bin/python3
+""" All test files for our AirBnB clone console"""
